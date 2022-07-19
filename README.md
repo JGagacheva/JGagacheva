@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JGagacheva
-- 🌱 I’m interested in the applications of mahcnine lerning in biomedical research
+- 🌱 I’m interested in the applications of machine learning in biomedical research
 - 🔬 I’m currently learning image processing and analysis 
 
 <!---
