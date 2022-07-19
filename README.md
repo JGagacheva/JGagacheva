@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JGagacheva
-- 🌱 I’m interested in Biostatistics and Computational Biology research
+- 🌱 I’m interested in the applications of mahcnine lerning in biomedical research
 - 🔬 I’m currently learning image processing and analysis 
 
 <!---
