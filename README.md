@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JGagacheva
-- 🌱 I’m interested in the applications of machine learning in biomedical research
-- 🔬 I’m currently learning image processing and analysis 
+- 👋 Hi, I’m @JGagacheva.
+- 🌱 I’m interested in broad applications of machine learning.
+- 🔬 I’m currently a student in a master of engineering learning the theory and applications of various machine learning and deep learning modelss and algorithms. 
 
 <!---
 JGagacheva/JGagacheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
